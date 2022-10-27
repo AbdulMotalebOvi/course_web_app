@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Javascript",
+        "image": "https://w7.pngwing.com/pngs/654/952/png-transparent-javascript-computer-icons-programming-language-world-wide-web-text-logo-monochrome.png"
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiQNBo_CKrNEydKXwNtaAr4eJBbjpewphgQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "PHP",
+        "image": "https://e7.pngegg.com/pngimages/631/270/png-clipart-php-php.png"
+    },
+    {
+        "id": 4,
+        "name": "TypeScript",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnB6VYZlMEgewcvi0VI0zq-GWPyMfW_eh7Og&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "C++",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBBsUr0NdOniWnPRqzjqllN22771xixOhYGA&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Java",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75HHXrxuRQvo9lZJm3XafGtvdJeaz_NE_fQ&usqp=CAU"
+    }
+]
